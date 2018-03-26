@@ -33,7 +33,7 @@ When you have completed the challenge please follow these instructions:
 * Type `git checkout -b gh-pages`
 * Type `git push -u origin gh-pages`
 * Find your account name on github and insert it into this url `http://[YourGithubAccountName].github.io/basecamp-assessment-iii`
-* Open that url to make sure it works, then send that url to your assigned mentor!
+* Open that url to make sure it works, then send that url to basecamp@devmountain.com!
 
 ## Contributions
 If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
