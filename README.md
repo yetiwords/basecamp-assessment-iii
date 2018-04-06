@@ -8,8 +8,8 @@ Show an understanding of the React concepts taught in Basecamp. This project sho
 ## Step 1
 
 * `Fork` and `clone` this repository and then `cd` into it.
-* If you don't have `create-react-app` installed, do so by running `sudo npm install -g create-react-app`.
-* Run `create-react-app app`in the root directory. ( This will create a folder called app )
+* If you don't have `create-react-app` installed, do so by running `npm install -g create-react-app`.
+* Run `create-react-app app`in the desired directory. ( This will create a folder called app )
 * Open the newly created `app` folder in your editor.
 
 ## Step 2
